@@ -12,6 +12,11 @@ public class Orai0920 {
         if (true) {
             
         }
+        metodus();
+    }
+
+    private static void metodus() {
+        //throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
 }
